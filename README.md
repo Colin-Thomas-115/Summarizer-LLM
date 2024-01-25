@@ -6,3 +6,6 @@ Summarizing a stack of papers involves systematically reviewing and condensing t
 #**link to the powerpoint presantatio**
 _everyone has access to the powerpoint_
 https://texastechuniversity-my.sharepoint.com/:p:/g/personal/yineza_ttu_edu/EbyDaIz9wdFJtGlFymcaJAYBAQn18y0naAs5ZXikL_E7Ew?e=vgZdmH
+
+# https://medium.com/@YasinShafiei/text-summarization-with-deep-learning-python-with-tensorflow-d0f3e329c3d2
+Potential Model/Stuff to learn from
