@@ -27,3 +27,20 @@ will be working on both testing models and hosting the results, while contributi
 ##### - Israel Akpati[Developer,designer] :  
 will be working on both testing models and hosting the results, while contributing to the overall project in code, suggestions, and documentation.
 _overall the roles above are not limited but are more flexible based on experience and collaboration_
+
+## Group meetings and activities
+- we hold Bi-Weekly Sprints in person (Tuesdays and Thursdays) for updates and to resolve issues
+- we meet in between the meetings for updates on a smaller scale
+## Meetongs so far
+| Dates | Description |
+| ----------- | ----------- |
+| T 01/23/2024 | - Meeting Group members - Discussing the project - Assigned roles - Layed out a plan|
+| R 01/25/2024 | - Discussing stage 1 - Progress on website - presanting pontential models we will use in our project |
+
+
+## upcoming schedules
+- [x] Assign Roles
+- [ ] Find a good Model
+- [ ] Test chosen model(s)
+- [ ] Host the model on our webpage
+
