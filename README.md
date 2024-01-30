@@ -13,6 +13,9 @@ Summarizing a stack of papers involves systematically reviewing and condensing t
 ### Potential Models to study/Research
 - [Text Summarization with deep learning python with tensorflow](https://medium.com/@YasinShafiei/text-summarization-with-deep-learning-python-with-tensorflow-d0f3e329c3d2)
 
+### Potential Sites for Data Collection
+- https://www.kaggle.com/datasets?search=documents
+
 #### Goup Members and their Official Roles
 ##### -  Ynes Ineza[Project manager]:
    Will be organizing meetings, keeping track of progress, will be developing and testing models to improve text summarization, while contributing to the overall project in code, suggestions, and documentation.
