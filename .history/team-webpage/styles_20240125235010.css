@@ -20,9 +20,7 @@ body {
 .main-container {
     background: #fff;
     border-radius: 15px;
-    width: 100rem;
-    height: 30rem;
-    margin: 1rem;
+    margin-top: 10rem;
     padding: 20px;
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.4);
 }
@@ -56,11 +54,4 @@ p {
     font-size: 12px;
     margin: 7px;
 }
-.calendar {
-    margin: 20px auto;
-    max-width: 600px;
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-    border-radius: 5px;
-}
+
