@@ -39,7 +39,7 @@ _overall the roles above are not limited but are more flexible based on experien
 | ----------- | ----------- |
 | T 01/23/2024 | - Meeting Group members - Discussing the project - Assigned roles - Layed out a plan|
 | R 01/25/2024 | - Discussing stage 1 - Progress on website - presanting pontential models we will use in our project |
-
+| T 01/30/2024 | - worked on slides and report for the presantation
 
 ## upcoming schedules
 - [x] Assign Roles
@@ -47,3 +47,7 @@ _overall the roles above are not limited but are more flexible based on experien
 - [ ] Test chosen model(s)
 - [ ] Host the model on our webpage
 
+## background
+## proposed solution
+## softwares
+[Link to the models](google.com)
