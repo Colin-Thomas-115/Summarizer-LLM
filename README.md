@@ -12,6 +12,12 @@ Summarizing a stack of papers involves systematically reviewing and condensing t
 
 ### Potential Models to study/Research
 - [Text Summarization with deep learning python with tensorflow](https://medium.com/@YasinShafiei/text-summarization-with-deep-learning-python-with-tensorflow-d0f3e329c3d2)
+### T5 Model
+- [Text Summarization with T5](https://learnopencv.com/text-summarization-using-t5/)
+- [Text Summarization with T5 by Pytorch](https://medium.com/@ajazturki10/text-summarization-with-t5-pytorch-and-pytorch-lightning-b7a319ec9ea2)
+- [T5 from Huggingface](https://huggingface.co/docs/transformers/model_doc/t5?source=post_page-----b665c9e40771--------------------------------)
+### OpenAI Model
+- [Langchain with MapReduce](https://python.langchain.com/docs/use_cases/summarization)
 
 ### Potential Sites for Data Collection
 - https://www.kaggle.com/datasets?search=documents
