@@ -19,8 +19,9 @@ Summarizing a stack of papers involves systematically reviewing and condensing t
 ### OpenAI Model
 - [Langchain with MapReduce](https://python.langchain.com/docs/use_cases/summarization)
 
-### Potential Sites for Data Collection
+### Potential Sources for Data Collection
 - https://www.kaggle.com/datasets?search=documents
+- https://paperswithcode.com/datasets?task=text-summarization&page=1
 
 #### Goup Members and their Official Roles
 ##### -  Ynes Ineza[Project manager]:
