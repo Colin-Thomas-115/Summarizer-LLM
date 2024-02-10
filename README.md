@@ -47,10 +47,13 @@ _overall the roles above are not limited but are more flexible based on experien
 | T 01/23/2024 | - Meeting Group members - Discussing the project - Assigned roles - Layed out a plan|
 | R 01/25/2024 | - Discussing stage 1 - Progress on website - presanting pontential models we will use in our project |
 | T 01/30/2024 | - worked on slides and report for the presantation
+| R 02/01/2024 | - began discussing Phase 2
+| T 02/06/2024 | - had an extensive discussion on available models (openAI vs T5)
+| F 02/09/2024 | - officially chose T5 as our model and began discussing testing
 
 ## upcoming schedules
 - [x] Assign Roles
-- [ ] Find a good Model
+- [x] Find a good Model
 - [ ] Test chosen model(s)
 - [ ] Host the model on our webpage
 
