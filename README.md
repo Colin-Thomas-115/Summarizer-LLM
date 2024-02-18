@@ -21,7 +21,10 @@ Summarizing a stack of papers involves systematically reviewing and condensing t
 
 ### Potential Sources for Data Collection
 - https://www.kaggle.com/datasets?search=documents
+  Kaggle, a Google subsidiary, is a virtual gathering place for data scientists and machine learning practitioners. It provides a platform where users can discover datasets for AI model development, share datasets, collaborate with other data enthusiasts, and participate in contests to address data science problems. Since its inception in 2010, Kaggle has been hosting machine learning and data science competitions, and it also provides a public data platform and cloud-based workspace for data science and AI learning.
+  
 - https://paperswithcode.com/datasets?task=text-summarization&page=1
+  Papers with Code is a community-driven platform that provides a comprehensive resource for Machine Learning research, including papers, code, datasets, and evaluation methods. The platform encourages open collaboration, facilitated by NLP and ML technologies. All content is freely available under the CC-BY-SA license, similar to Wikipedia, and contributions from users are welcomed. In addition to its main focus, the platform also hosts specialized sections for fields like astronomy, physics, computer sciences, mathematics, and statistics.
 
 #### Goup Members and their Official Roles
 ##### -  Ynes Ineza[Project manager]:
