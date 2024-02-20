@@ -72,3 +72,6 @@ _overall the roles above are not limited but are more flexible based on experien
 ## proposed solution
 ## softwares
 [Link to the models](google.com)
+
+[Code github ](https://github.com/ajazturki10/Text-Summarization-with-T5-PyTorch-and-PyTorch-Lightning/blob/main/Text_Summarization_using_T5.ipynb)
+
