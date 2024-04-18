@@ -65,8 +65,8 @@ _overall the roles above are not limited but are more flexible based on experien
 ## upcoming schedules
 - [x] Assign Roles
 - [x] Find a good Model
-- [ ] Test chosen model(s)
-- [ ] Host the model on our webpage
+- [x] Test chosen model(s)
+- [x] Host the model on our webpage
 
 ## background
 ## proposed solution
