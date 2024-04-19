@@ -3,7 +3,7 @@ _the readme file is written in Markdown code [here is a Markdown cheatsheet](htt
 
 # Summarization-of-a-stack-of-papers-using-LLMs-
 #### Authors: Ynes Ineza, Colin W. Thomas, Joseph Obasuyi, Tahmid Khan, Jaewook Kwon, and Israel Akpati
-Summarizing a stack of papers involves systematically reviewing and condensing the key information from each paper to provide a concise overview. It is time consuming. To save readers’ time, it might be helpful to utilizing LLMs. Leveraging LLMs like GPT-3 for summarizing a stack of papers involves using natural language processing capabilities to generate concise and coherent summaries. It might be feasible to have two stages to come out the summarization of a stack of papers. The first step is to generate a summary for each paper using LLMs, and the second step is to aggregate all summaries of the stack of papers into a cohesive document.
+Summarizing a stack of papers involves systematically reviewing and condensing the key information from each paper to provide a concise overview. It is time-consuming. To save readers’ time, it might be helpful to utilize LLMs. Leveraging LLMs like GPT-3 for summarizing a stack of papers involves using natural language processing capabilities to generate concise and coherent summaries. It might be feasible to have two stages to come out the summarization of a stack of papers. The first step is to generate a summary for each paper using LLMs, and the second step is to aggregate all summaries of the stack of papers into a cohesive document.
 
 # Team Webpage
 #### Our website serves as a comprehensive hub for our product, meticulously designed to facilitate seamless communication and collaboration among our team members. It is a virtual repository that houses a wealth of information pertinent to our team and our project.
@@ -16,16 +16,14 @@ In essence, our website is more than just a platform; it’s a dynamic space tha
 
 
 [Link To Powerpoint Presantation](https://texastechuniversity-my.sharepoint.com/:p:/g/personal/yineza_ttu_edu/EbyDaIz9wdFJtGlFymcaJAYBAQn18y0naAs5ZXikL_E7Ew?e=vgZdmH)
-###### _everyone has access to the powerpoint_
+###### _everyone has access to the PowerPoint_
 
-### Potential Models to study/Research
+### Potential Models to Study/Research
 - [Text Summarization with deep learning python with tensorflow](https://medium.com/@YasinShafiei/text-summarization-with-deep-learning-python-with-tensorflow-d0f3e329c3d2)
 ### T5 Model
 - [Text Summarization with T5](https://learnopencv.com/text-summarization-using-t5/)
 - [Text Summarization with T5 by Pytorch](https://medium.com/@ajazturki10/text-summarization-with-t5-pytorch-and-pytorch-lightning-b7a319ec9ea2)
 - [T5 from Huggingface](https://huggingface.co/docs/transformers/model_doc/t5?source=post_page-----b665c9e40771--------------------------------)
-### OpenAI Model
-- [Langchain with MapReduce](https://python.langchain.com/docs/use_cases/summarization)
 
 ### Potential Sources for Data Collection
 - https://www.kaggle.com/datasets?search=documents
@@ -34,7 +32,7 @@ In essence, our website is more than just a platform; it’s a dynamic space tha
 - https://paperswithcode.com/datasets?task=text-summarization&page=1
   Papers with Code is a community-driven platform that provides a comprehensive resource for Machine Learning research, including papers, code, datasets, and evaluation methods. The platform encourages open collaboration, facilitated by NLP and ML technologies. All content is freely available under the CC-BY-SA license, similar to Wikipedia, and contributions from users are welcomed. In addition to its main focus, the platform also hosts specialized sections for fields like astronomy, physics, computer sciences, mathematics, and statistics.
 
-#### Goup Members and their Official Roles
+#### Group Members and their Official Roles
 ##### -  Ynes Ineza[Project manager]:
    Will be organizing meetings, keeping track of progress, will be developing and testing models to improve text summarization, while contributing to the overall project in code, suggestions, and documentation.
 ##### - Colin W. Thomas[developer]: 
@@ -71,7 +69,5 @@ _overall the roles above are not limited but are more flexible based on experien
 ## background
 ## proposed solution
 ## softwares
-[Link to the models](google.com)
-
 [Code github ](https://github.com/ajazturki10/Text-Summarization-with-T5-PyTorch-and-PyTorch-Lightning/blob/main/Text_Summarization_using_T5.ipynb)
 
